@@ -6,7 +6,7 @@ An autonomous customer support agent that resolves ShopWave support tickets usin
 ---
 
 ## 🚀 Live Demo
-👉 https://your-app-name.streamlit.app
+👉 https://myovzdy2qenmhwvsnpeomt.streamlit.app/
 
 ## Setup
 
